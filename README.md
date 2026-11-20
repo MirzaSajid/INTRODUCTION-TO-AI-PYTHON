@@ -83,4 +83,4 @@ R^2 test:  0.967
 
 ## Author
 
-Replace with your name | Module 01, AI & Python Program
+Sajid Hussain | Module 01, AI & Python Program
